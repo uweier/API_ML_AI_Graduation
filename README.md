@@ -3,7 +3,7 @@
 ### Product Requirements
 |Target release|2019-11-24|
 |---|---|
-|Epic|智能毕业纪念APP|
+|Epic|在抖音或微信上的智能毕业纪念|
 |Document status|正在进行|
 |Document owner|黄煜惠|
 |Designer|黄煜惠|
