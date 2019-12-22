@@ -1,10 +1,10 @@
 # 智能毕业纪念册
 
 ### Product Requirements
-|Target release|2019-12|
+|Target release|2019-12-22|
 |---|---|
 |Epic|智能毕业纪念册|
-|Document status|进行中|
+|Document status|已完成|
 |Document owner|黄煜惠|
 |Designer|黄煜惠|
 |Developer|黄煜惠|
@@ -70,5 +70,4 @@
 |---|---|---|---|
 |1|高|人脸识别与个人信息输出|百度-[人脸搜索API](https://ai.baidu.com/tech/face/search)|
 |2|高|照片的云存储|阿里云-[智能云相册API](https://help.aliyun.com/document_detail/59902.html?spm=5176.10609282.905295.17.469838010yyDq4)|
-|3|中|校园中特定地点的回忆记录|高德地图-[静态地图API](https://lbs.amap.com/api/webservice/guide/api/staticmaps)、百度-[短语音识别API](https://ai.baidu.com/tech/speech/asr)
-|
+|3|中|校园中特定地点的回忆记录|高德地图-[静态地图API](https://lbs.amap.com/api/webservice/guide/api/staticmaps)、百度-[短语音识别API](https://ai.baidu.com/tech/speech/asr)|
